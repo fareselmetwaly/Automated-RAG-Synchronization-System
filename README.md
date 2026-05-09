@@ -18,7 +18,7 @@ A fully automated pipeline that runs on a schedule, detects only new or modified
 
 ## System Architecture
 
-![Architecture](./architecture.png)
+![Architecture](./screenshots/architecture.png)
 
 ---
 
